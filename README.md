@@ -35,7 +35,7 @@ Fullstack Academy block20 Freelancer Forum Workshop
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://cnash23.github.io/Freelancer-Forum/)
 
 ## My process
 
