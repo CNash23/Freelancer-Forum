@@ -43,6 +43,7 @@ Fullstack Academy block20 Freelancer Forum Workshop
 
 - Javascript
 - Internal CSS
+- Html
 
 ### What I learned
 
