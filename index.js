@@ -27,6 +27,8 @@ const unordList = document.createElement("ul")//create an unordered list element
   let list = document.createElement("li") 
   list.innerText = users[i].name
   
+ 
+  
   unordList.appendChild(list) //Append li elements to ul parent(unordList).
     
  }  
